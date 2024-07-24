@@ -1,0 +1,43 @@
+.containerDiv{
+
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 0 2px;
+    padding: 20px;
+    position: relative;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%);
+}
+.ipnuteText{
+    width: 100%;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #1976d2;
+
+
+}
+.labelDiv{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: gray;
+}
+.btnLogin{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: small;
+    font-weight: bold;
+    color: rgba(128, 128, 128, 0.553);
+
+}
+.link{
+    text-decoration: none;
+    color: #1976d2;
+}

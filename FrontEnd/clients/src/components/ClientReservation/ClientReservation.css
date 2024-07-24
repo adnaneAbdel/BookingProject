@@ -1,0 +1,42 @@
+.baxing{
+    width: 600px;
+    background-color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 2px;
+    position: relative;
+   
+    top: 100px;
+}
+h1{
+    font-size: x-large;
+    text-transform: capitalize;
+}
+.btnStart{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+.EventsBtn,.OffersBtn{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    width: 100px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+    transition: 0.3s;
+    background-color: white;
+    
+}
+.EventsBtn:hover{
+    background-color: #4a00e0;
+    color: white;
+}
+.OffersBtn:hover{
+    color: white;
+    background-color: #8e2de2;
+}

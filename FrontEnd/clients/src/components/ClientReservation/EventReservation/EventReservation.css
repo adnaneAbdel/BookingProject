@@ -1,0 +1,73 @@
+.placeForEvent{
+
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 20px;
+    height: 270px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.418);
+    box-shadow: 0 0 3px;
+    border: 1px solid #8E2DE2;
+
+}
+.moreDetails{
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    border: 1px solid #eee;
+
+    position: relative;
+    top: 5px;
+    background-color: #4a00e0;
+    cursor: pointer;
+}
+
+.titleOfEvent{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: math;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    background: transparent;
+    margin-top: 20px;
+}
+.InfoOfEvent{
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: to;
+    position: relative;
+    top: 10px;
+    background: transparent;
+}
+.day{
+    background: transparent;
+    font-weight: bold;
+}
+.price{
+    background: transparent;
+    font-weight: bold;
+    font-family: math;
+    color: #4a00e0;
+}
+.moreDetails{
+    width: 175px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.concelationbtn{
+    background-color: red;
+    width: 175px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.events{
+    position: relative;
+    top: 100px;
+}
+.links{
+    color: white;
+}
